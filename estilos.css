@@ -166,4 +166,11 @@ footer{
         align-content: center;
         text-align: center;
     }
+    .contenedor-img{
+        width: 70%;
+    }
+    .overlay .descripcion{
+        font-size: 18px;
+    }
+    
 }
